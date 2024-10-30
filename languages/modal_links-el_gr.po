@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Modal Links\n"
+"POT-Creation-Date: 2014-05-12 01:48+0200\n"
+"PO-Revision-Date: 2014-05-12 03:50+0200\n"
+"Last-Translator: George Lazarou <info@georgelazarou.info>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: modal-links\n"
+
+#: modal-links/modal-links.php:210
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: modal-links/php/modal-links-admin.php:16
+#: modal-links/php/modal-links-admin.php:17
+msgid "Modal Links"
+msgstr "Modal Links"
+
+#: modal-links/php/modal-links-admin.php:37
+msgid "Modal Links Settings"
+msgstr "Modal Links Ρυθμίσεις"
+
+#: modal-links/php/modal-links-admin.php:44
+msgid "Usage and Support"
+msgstr "Χρήση και Υποστήριξη"
+
+#: modal-links/php/modal-links-admin.php:49
+msgid "Modal Links in wordpress.org"
+msgstr "Modal Links στο wordpress.org"
+
+#: modal-links/php/modal-links-admin.php:53
+msgid "Extensions"
+msgstr "Επεκτάσεις"
+
+#: modal-links/php/modal-links-admin.php:55
+msgid "Free"
+msgstr "Δωρεάν"
+
+#: modal-links/php/modal-links-admin.php:71
+#: modal-links/php/modal-links-admin.php:149
+#: modal-links/php/modal-links-admin.php:235
+#: modal-links/php/modal-links-admin.php:313
+msgid "Great!"
+msgstr "Τέλεια!"
+
+#: modal-links/php/modal-links-admin.php:73
+#: modal-links/php/modal-links-admin.php:91
+#: modal-links/php/modal-links-admin.php:116
+msgid "Modal Links Read More"
+msgstr "Modal Links Read More"
+
+#: modal-links/php/modal-links-admin.php:76
+#: modal-links/php/modal-links-admin.php:157
+#: modal-links/php/modal-links-admin.php:240
+#: modal-links/php/modal-links-admin.php:318
+msgid "plugin seems that is installed and activated"
+msgstr "πρόσθετο φαίνεται πως είναι εγκατεστημένο και ενεργοποιημένο"
+
+#: modal-links/php/modal-links-admin.php:81
+#: modal-links/php/modal-links-admin.php:99
+msgid ""
+"This plugin is an extension of Modal Links plugin\n"
+"                            and uses the post's/page's read more link to "
+"open\n"
+"                            the complete post/page in modal window"
+msgstr ""
+"Αυτό το πρόσθετο είναι επέκταση του Modal Links πρόσθετου και χρησιμοποιεί "
+"των άρθρων/σελίδων τους read more συνδέσμους για να ανοίξει ολόκληρο/η το/"
+"την άρθρο/σελίδα σε modal παράθυρο"
+
+#: modal-links/php/modal-links-admin.php:94
+#: modal-links/php/modal-links-admin.php:178
+#: modal-links/php/modal-links-admin.php:258
+#: modal-links/php/modal-links-admin.php:336
+msgid "plugin seems that is installed but not activated"
+msgstr "πρόσθετο φαίνεται πως είναι εγκατεστημένο αλλά απενεργοποιημένο"
+
+#: modal-links/php/modal-links-admin.php:105
+#: modal-links/php/modal-links-admin.php:189
+#: modal-links/php/modal-links-admin.php:269
+#: modal-links/php/modal-links-admin.php:347
+msgid "Activate it"
+msgstr "Ενεργοποίηση"
+
+#: modal-links/php/modal-links-admin.php:108
+#: modal-links/php/modal-links-admin.php:192
+#: modal-links/php/modal-links-admin.php:272
+#: modal-links/php/modal-links-admin.php:350
+msgid "now"
+msgstr "τώρα"
+
+#: modal-links/php/modal-links-admin.php:118
+#: modal-links/php/modal-links-admin.php:205
+#: modal-links/php/modal-links-admin.php:283
+#: modal-links/php/modal-links-admin.php:360
+msgid "plugin seems that is not installed"
+msgstr "πρόσθετο φαίνεται πως δεν είναι εγκατεστημένο"
+
+#: modal-links/php/modal-links-admin.php:121
+msgid ""
+"This plugin is an extension of Modal Links plugin\n"
+"                        and uses the post's/page's read more link to open\n"
+"                        the complete post/page in modal window"
+msgstr ""
+"Αυτό το πρόσθετο είναι επέκταση του Modal Links πρόσθετου και χρησιμοποιεί "
+"των άρθρων/σελίδων τους read more συνδέσμους για να ανοίξει ολόκληρο/η το/"
+"την άρθρο/σελίδα σε modal παράθυρο"
+
+#: modal-links/php/modal-links-admin.php:127
+#: modal-links/php/modal-links-admin.php:214
+#: modal-links/php/modal-links-admin.php:294
+#: modal-links/php/modal-links-admin.php:369
+msgid "You can get it"
+msgstr "Μπορείτε να το αποκτήσετε"
+
+#: modal-links/php/modal-links-admin.php:130
+#: modal-links/php/modal-links-admin.php:217
+#: modal-links/php/modal-links-admin.php:297
+#: modal-links/php/modal-links-admin.php:372
+msgid "here"
+msgstr "εδώ"
+
+#: modal-links/php/modal-links-admin.php:152
+#: modal-links/php/modal-links-admin.php:173
+#: modal-links/php/modal-links-admin.php:201
+msgid "Modal Links Meta Widget Login Register"
+msgstr "Modal Links Meta Widget Login Register"
+
+#: modal-links/php/modal-links-admin.php:162
+#: modal-links/php/modal-links-admin.php:183
+msgid ""
+"This plugin is an extension of Modal Links plugin\n"
+"                            and uses the meta widget and opens Login/Logout\n"
+"                            and Register links in modal window"
+msgstr ""
+"Αυτό το πρόσθετο είναι επέκταση του Modal Links πρόσθετου και χρησιμοποιεί "
+"το meta widget και ανοίγει τους Login/Logout και Register συνδέσμους σε "
+"modal παράθυρο"
+
+#: modal-links/php/modal-links-admin.php:208
+msgid ""
+"This plugin is an extension of Modal Links plugin\n"
+"                        and uses the meta widget and opens Login/Logout\n"
+"                        and Register links in modal window"
+msgstr ""
+"Αυτό το πρόσθετο είναι επέκταση του Modal Links πρόσθετου και χρησιμοποιεί "
+"το meta widget και ανοίγει τους Login/Logout και Register συνδέσμους σε "
+"modal παράθυρο"
+
+#: modal-links/php/modal-links-admin.php:222
+msgid "Paid"
+msgstr "Επι πληρωμή"
+
+#: modal-links/php/modal-links-admin.php:237
+#: modal-links/php/modal-links-admin.php:255
+#: modal-links/php/modal-links-admin.php:280
+msgid "Modal Links Shortcode GUI"
+msgstr "Modal Links Shortcode GUI"
+
+#: modal-links/php/modal-links-admin.php:245
+#: modal-links/php/modal-links-admin.php:263
+msgid ""
+"This plugin is an extension of Modal Links plugin\n"
+"                            and adds a GUI way to insert the shortcode into "
+"the\n"
+"                            wp editor. No need to know or remember anything"
+msgstr ""
+"Αυτό το πρόσθετο είναι επέκταση του Modal Links πρόσθετου και προσθέτει έναν "
+"GUI τρόπο για την εισαγωγή του shortcode μέσα στον wp editor. Δεν θα "
+"χρειάζεται να γνωρίζεται ή να θυμάστε τίποτα"
+
+#: modal-links/php/modal-links-admin.php:288
+msgid ""
+"This plugin is an extension of Modal Links plugin\n"
+"                        and adds a GUI way to insert the shortcode into the\n"
+"                        wp editor. No need to know or remember anything"
+msgstr ""
+"Αυτό το πρόσθετο είναι επέκταση του Modal Links πρόσθετου και προσθέτει έναν "
+"GUI τρόπο για την εισαγωγή του shortcode μέσα στον wp editor. Δεν θα "
+"χρειάζεται να γνωρίζεται ή να θυμάστε τίποτα"
+
+#: modal-links/php/modal-links-admin.php:315
+#: modal-links/php/modal-links-admin.php:333
+#: modal-links/php/modal-links-admin.php:358
+msgid "Modal Links Auto Open"
+msgstr "Modal Links Auto Open"
+
+#: modal-links/php/modal-links-admin.php:323
+#: modal-links/php/modal-links-admin.php:341
+msgid ""
+"This plugin is an extension of Modal Links plugin\n"
+"                            and opens a post/page in modal window "
+"automatically.\n"
+"                            Selectable option for every post/page and front "
+"page"
+msgstr ""
+"Αυτό το πρόσθετο είναι επέκταση του Modal Links πρόσθετου και ανοίγει ένα/"
+"μία άρθρο/σελίδα σε modal παράθυρο αυτόματα.Υπάρχει επιλογή για καθένα/"
+"καθεμία άρθρο/σελίδα και για την αρχική σελίδα"
+
+#: modal-links/php/modal-links-admin.php:363
+msgid ""
+"This plugin is an extension of Modal Links plugin\n"
+"                        and opens a post/page in modal window "
+"automatically.\n"
+"                        Selectable option for every post/page and front page"
+msgstr ""
+"Αυτό το πρόσθετο είναι επέκταση του Modal Links πρόσθετου και ανοίγει ένα/"
+"μία άρθρο/σελίδα σε modal παράθυρο αυτόματα.Υπάρχει επιλογή για καθένα/"
+"καθεμία άρθρο/σελίδα και για την αρχική σελίδα"
+
+#: modal-links/php/modal-links-callbacks.php:92
+#: modal-links/php/modal-links-shortcode.php:61
+msgid "Register"
+msgstr "Εγγραφή"
+
+#: modal-links/php/modal-links-callbacks.php:98
+#: modal-links/php/modal-links-shortcode.php:72
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: modal-links/php/modal-links-callbacks.php:103
+#: modal-links/php/modal-links-shortcode.php:81
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: modal-links/php/modal-links-callbacks.php:192
+#: modal-links/php/modal-links-callbacks.php:200
+#: modal-links/php/modal-links-functions.php:53
+#: modal-links/php/modal-links-functions.php:62
+#: modal-links/php/modal-links-functions.php:71
+#: modal-links/php/modal-links-functions.php:79
+msgid "Modal Links Error"
+msgstr "Modal Links Σφάλμα"
+
+#: modal-links/php/modal-links-callbacks.php:195
+msgid "cUrl is not installed"
+msgstr "Το cUrl δεν είναι εγκατεστημένο"
+
+#: modal-links/php/modal-links-callbacks.php:203
+msgid "Something gone wrong here..."
+msgstr "Something gone wrong here..."
+
+#: modal-links/php/modal-links-functions.php:56
+msgid "Modal Links does not support attachments"
+msgstr "Το Modal Links δεν υποστηρίζει attachments"
+
+#: modal-links/php/modal-links-functions.php:65
+msgid "Modal Links does not support revisions"
+msgstr "Το Modal Links δεν υποστηρίζει revisions"
+
+#: modal-links/php/modal-links-functions.php:74
+msgid "Modal Links does not support navigation menus"
+msgstr "Το Modal Links δεν υποστηρίζει navigation menus"
+
+#: modal-links/php/modal-links-functions.php:82
+msgid "Modal Links plugin works for posts and pages only"
+msgstr "Το πρόσθετο Modal Links λειτουργεί μόνο για άρθρα και σελίδες"
+
+#: modal-links/php/modal-links-functions.php:176
+msgid "Select Content"
+msgstr "Επιλέξτε Περιεχόμενο"
+
+#: modal-links/php/modal-links-functions.php:177
+msgid "Posts"
+msgstr "Άρθρα"
+
+#: modal-links/php/modal-links-functions.php:194
+msgid "Modals"
+msgstr ""
+
+#: modal-links/php/modal-links-functions.php:211
+msgid "Pages"
+msgstr "Σελίδες"
+
+#: modal-links/php/modal-links-functions.php:225
+msgid "Forms"
+msgstr "Φόρμες"
+
+#: modal-links/php/modal-links-functions.php:249
+msgid "Show title?"
+msgstr "Εμφάνιση τίτλου;"
+
+#: modal-links/php/modal-links-functions.php:250
+msgid "Yes"
+msgstr "Ναι"
+
+#: modal-links/php/modal-links-functions.php:251
+msgid "No"
+msgstr "Όχι"
+
+#: modal-links/php/modal-links-settings.php:19
+msgid "Modal Window"
+msgstr "Modal Παράθυρο"
+
+#: modal-links/php/modal-links-settings.php:27
+msgid "Width"
+msgstr "Πλάτος"
+
+#: modal-links/php/modal-links-settings.php:36
+msgid "Max Height"
+msgstr "Μλεγιστο Ύψος"
+
+#: modal-links/php/modal-links-settings.php:45
+msgid "Draggable"
+msgstr "Μετακινούμενο"
+
+#: modal-links/php/modal-links-settings.php:54
+msgid "Resizable"
+msgstr "Μεταβλητού μεγέθους"
+
+#: modal-links/php/modal-links-settings.php:63
+msgid "Title"
+msgstr "Τίτλος"
+
+#: modal-links/php/modal-links-settings.php:72
+msgid "Animate on Show"
+msgstr "Animate κατά την εμφάνιση"
+
+#: modal-links/php/modal-links-settings.php:81
+msgid "Animate on Hide"
+msgstr "Animate κατά το κλείσιμο"
+
+#: modal-links/php/modal-links-settings.php:125
+#: modal-links/php/modal-links-settings.php:148
+msgid "px"
+msgstr ""
+
+#: modal-links/php/modal-links-settings.php:128
+#: modal-links/php/modal-links-settings.php:151
+msgid "(leave it empty or '0' for 'auto')"
+msgstr "(αφήστε το κενό ή '0' για 'auto')"
+
+#: modal-links/php/modal-links-settings.php:156
+msgid ""
+"NOTICE! The actual max height may be a bit\n"
+"            different because of jQuery's calculations"
+msgstr ""
+"ΠΡΟΣΟΧΗ! ΤΟ πραγματικό μέγιστο ύψος μπορεί να\n"
+"            διαφέρει λόγω των περίπλοκων υπολογισμών του Query"
+
+#: modal-links/php/modal-links-settings.php:260
+#, fuzzy
+msgid ""
+"default: Title is shown for all posts/pages\n"
+"            except if title=\"false\" is defined in shortcode\n"
+"            and is hidden for posts in Modals category except\n"
+"            if title=\"true\" is defined in shortcode."
+msgstr ""
+"Default: Ο τίτλος εμφανίζεται για όλα τα posts/pages \n"
+"            εκτός αν δηλώνεται title=\"false\" μέσα στο shortcode \n"
+"            και ΔΕΝ εμφανίζεται για όλα τα posts μέσα στην κατηγορία Modals "
+"εκτός \n"
+"            αν δηλώνεται title=\"true\" μέσα στο shortcode."
+
+#: modal-links/php/modal-links-settings.php:267
+#, fuzzy
+msgid "true: Title is shown in any case."
+msgstr "True: Ο τίτλος εμφανίζεται σε κάθε περίπτωση"
+
+#: modal-links/php/modal-links-settings.php:269
+#, fuzzy
+msgid "false: Title is hidden in any case"
+msgstr "False: Ο τίτλος ΔΕΝ εμφανίζεται σε κάθε περίπτωση"
+
+#: modal-links/php/modal-links-shortcode.php:89
+msgid "Modal Links Shortcode Error!"
+msgstr "Modal Links Shortcode Σφάλμα!"
